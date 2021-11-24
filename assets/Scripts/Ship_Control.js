@@ -37,7 +37,7 @@ cc.Class({
             isShoot = true;
             if (check) {
                 //relate to store
-                cc.audioEngine.playEffect(this.background_Audio, true, 0.1);
+                cc.audioEngine.play(this.background_Audio, true, 0.8);
                 this.tutorial_text.active = false;
                 this.tutorial_hand.active = false;
                 check = false;
@@ -88,7 +88,7 @@ cc.Class({
         cc.tween(bullet)
             .to(1, { position: cc.v2(this.node.getPosition().x, 800) })
             .start()
-        cc.audioEngine.playEffect(this.shoot_Audio, false, 0.1);
+        cc.audioEngine.play(this.shoot_Audio, false, 0.3);
     }
 
 });

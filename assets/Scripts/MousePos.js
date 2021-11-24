@@ -15,6 +15,15 @@ cc.Class({
         window.MouseY = 150;
     },
     start() {
+        this.node.on("touchstart", function (obj) {
+            //relate to store
+            if (window.endGame) {
+                this.releaseStore()
+            }
+        }, this);
+    },
+    releaseStore() {
+        console.log('GOTOSTORE');
     },
     control() {
         if (!window.endGame) {
@@ -22,11 +31,6 @@ cc.Class({
                 MouseX = obj.getLocation().x
                 MouseY = obj.getLocation().y;
                 window.tutorial = false;
-            }, this);
-        } else {
-            this.node.on("touchstart", function (obj) {
-                //relate to store
-                console.log('GOTOSTORE');
             }, this);
         }
     },

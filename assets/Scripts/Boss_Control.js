@@ -5,8 +5,8 @@ cc.Class({
 
     properties: {
         // boss_small_prefab: cc.Prefab,
-        boss_big_prefab: cc.Node,
-        cloud_prefab: cc.Node,
+        Boss: cc.Node,
+        Taptocontinue: cc.Node,
     },
 
     start() {
@@ -14,10 +14,10 @@ cc.Class({
     },
     create_Boss() {
         // let bossSmall = cc.instantiate(this.boss_small_prefab);
-        // let bossBig = cc.instantiate(this.boss_big_prefab);
+        // let bossBig = cc.instantiate(this.Boss);
         // let cloud = cc.instantiate(this.cloud_prefab);
-        this.cloud_prefab.active = true;
-        this.boss_big_prefab.active = true;
+        this.Boss.active = true;
+        this.Taptocontinue.active = true;
         // groupBoss.addChild(bossSmall);
         // groupBoss.addChild(bossBig);
         // groupBoss.addChild(cloud);
