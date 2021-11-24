@@ -1,0 +1,66 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "enemy2_move",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 539,
+  "sample": 1,
+  "speed": 70,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            841,
+            768
+          ],
+          "motionPath": [
+            [
+              720,
+              722,
+              774,
+              741,
+              588,
+              661
+            ],
+            [
+              740,
+              346,
+              529,
+              397,
+              951,
+              334
+            ],
+            [
+              907,
+              594,
+              954,
+              511,
+              803,
+              698
+            ],
+            [
+              545,
+              459,
+              619,
+              572,
+              418,
+              267
+            ]
+          ]
+        },
+        {
+          "frame": 539,
+          "value": [
+            636,
+            -83
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}

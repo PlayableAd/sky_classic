@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "7a19f441-d434-460d-a0b0-0b053c10b993",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 64,
+  "height": 72,
+  "platformSettings": {},
+  "subMetas": {
+    "Phase 3 Gun Base": {
+      "ver": "1.0.4",
+      "uuid": "c0a465bc-95ca-4e1c-b067-12586f7b5516",
+      "rawTextureUuid": "7a19f441-d434-460d-a0b0-0b053c10b993",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 62,
+      "height": 70,
+      "rawWidth": 64,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "2f22774a-4b7d-4739-8937-2a634d812346",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 31,
+  "height": 59,
+  "platformSettings": {},
+  "subMetas": {
+    "Phase 3 Laser 7": {
+      "ver": "1.0.4",
+      "uuid": "a5363529-48cf-49ef-abf1-ae01a616e223",
+      "rawTextureUuid": "2f22774a-4b7d-4739-8937-2a634d812346",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 29,
+      "height": 57,
+      "rawWidth": 31,
+      "rawHeight": 59,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "cloud",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 25,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "paths": {
+      "cloud (1)": {
+        "props": {
+          "x": [
+            {
+              "frame": 2.9,
+              "value": -233.587
+            },
+            {
+              "frame": 10.4,
+              "value": 339.786
+            },
+            {
+              "frame": 18.9,
+              "value": -549.53
+            },
+            {
+              "frame": 25,
+              "value": -67.873
+            }
+          ]
+        }
+      },
+      "cloud (2)": {
+        "props": {
+          "x": [
+            {
+              "frame": 2.9,
+              "value": 286.4
+            },
+            {
+              "frame": 10.4,
+              "value": -381.734
+            },
+            {
+              "frame": 18.9,
+              "value": 457.243
+            },
+            {
+              "frame": 25,
+              "value": 238.552
+            }
+          ]
+        }
+      },
+      "cloud (3)": {
+        "props": {
+          "x": [
+            {
+              "frame": 2.9,
+              "value": -131.94
+            },
+            {
+              "frame": 10.4,
+              "value": 116.134
+            },
+            {
+              "frame": 18.9,
+              "value": -131.94
+            }
+          ]
+        }
+      },
+      "tapToContinue": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": 0
+            },
+            {
+              "frame": 4.3,
+              "value": 255
+            },
+            {
+              "frame": 5,
+              "value": 0
+            },
+            {
+              "frame": 5.7,
+              "value": 255
+            },
+            {
+              "frame": 6.4,
+              "value": 0
+            },
+            {
+              "frame": 7.1,
+              "value": 255
+            },
+            {
+              "frame": 7.8,
+              "value": 0
+            },
+            {
+              "frame": 8.5,
+              "value": 255
+            },
+            {
+              "frame": 9.1,
+              "value": 0
+            },
+            {
+              "frame": 9.5,
+              "value": 255
+            },
+            {
+              "frame": 10.2,
+              "value": 0
+            },
+            {
+              "frame": 10.9,
+              "value": 255
+            },
+            {
+              "frame": 11.6,
+              "value": 0
+            },
+            {
+              "frame": 12.3,
+              "value": 255
+            },
+            {
+              "frame": 12.9,
+              "value": 0
+            },
+            {
+              "frame": 13.5,
+              "value": 255
+            },
+            {
+              "frame": 14.2,
+              "value": 0
+            },
+            {
+              "frame": 14.9,
+              "value": 255
+            },
+            {
+              "frame": 15.6,
+              "value": 0
+            },
+            {
+              "frame": 16.3,
+              "value": 255
+            },
+            {
+              "frame": 16.9,
+              "value": 0
+            },
+            {
+              "frame": 17.5,
+              "value": 255
+            },
+            {
+              "frame": 18.2,
+              "value": 0
+            },
+            {
+              "frame": 18.9,
+              "value": 255
+            },
+            {
+              "frame": 19.6,
+              "value": 0
+            },
+            {
+              "frame": 20.3,
+              "value": 255
+            },
+            {
+              "frame": 20.9,
+              "value": 0
+            },
+            {
+              "frame": 21.5,
+              "value": 255
+            },
+            {
+              "frame": 22.2,
+              "value": 0
+            },
+            {
+              "frame": 22.9,
+              "value": 255
+            },
+            {
+              "frame": 23.6,
+              "value": 0
+            },
+            {
+              "frame": 24.3,
+              "value": 255
+            },
+            {
+              "frame": 24.9,
+              "value": 0
+            }
+          ]
+        }
+      }
+    },
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 1237.4
+        },
+        {
+          "frame": 4,
+          "value": 645.642
+        }
+      ]
+    }
+  },
+  "events": []
+}

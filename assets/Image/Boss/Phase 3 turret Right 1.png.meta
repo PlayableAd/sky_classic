@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0438a477-9434-4b9c-bf79-90ed80e749aa",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 39,
+  "height": 66,
+  "platformSettings": {},
+  "subMetas": {
+    "Phase 3 turret Right 1": {
+      "ver": "1.0.4",
+      "uuid": "ca7a9a11-5232-44f3-9b79-3d14fb478fe5",
+      "rawTextureUuid": "0438a477-9434-4b9c-bf79-90ed80e749aa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 37,
+      "height": 64,
+      "rawWidth": 39,
+      "rawHeight": 66,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

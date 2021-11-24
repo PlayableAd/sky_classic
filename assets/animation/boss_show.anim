@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "boss_show",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4,
+  "sample": 1,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 573.579
+        },
+        {
+          "frame": 3,
+          "value": 223.795
+        },
+        {
+          "frame": 4,
+          "value": 123.111
+        }
+      ]
+    }
+  },
+  "events": []
+}

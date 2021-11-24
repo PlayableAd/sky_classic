@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "04a9dca7-f806-4872-bb16-ab6c14e9ceb7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 25,
+  "height": 102,
+  "platformSettings": {},
+  "subMetas": {
+    "phase 2 Gun1 Left 2": {
+      "ver": "1.0.4",
+      "uuid": "4c72ae4a-d537-496b-a8ff-88c833e44441",
+      "rawTextureUuid": "04a9dca7-f806-4872-bb16-ab6c14e9ceb7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 23,
+      "height": 100,
+      "rawWidth": 25,
+      "rawHeight": 102,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

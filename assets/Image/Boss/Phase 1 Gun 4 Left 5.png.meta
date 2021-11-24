@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8a696ed7-0539-492b-ad0e-1d7f90a19275",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 42,
+  "height": 53,
+  "platformSettings": {},
+  "subMetas": {
+    "Phase 1 Gun 4 Left 5": {
+      "ver": "1.0.4",
+      "uuid": "34a879ae-5bce-4688-a789-aac20566d7ca",
+      "rawTextureUuid": "8a696ed7-0539-492b-ad0e-1d7f90a19275",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 40,
+      "height": 51,
+      "rawWidth": 42,
+      "rawHeight": 53,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

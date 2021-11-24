@@ -1,0 +1,450 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Boss",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "paths": {
+      "Gunbottom": {
+        "props": {
+          "angle": [],
+          "position": []
+        }
+      },
+      "Gunbottom/Phase2 Gun2 Left 4": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                2.151,
+                0.994,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                2.151,
+                -26.169,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "Gunbottom/Phase2 Gun2 Left 4/Phase2Gun2Left2": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                8.027,
+                11.433,
+                0
+              ]
+            },
+            {
+              "frame": 2.2,
+              "value": [
+                8.027,
+                11.433,
+                0
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                28.104,
+                -0.377,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "Gunbottom/Phase2 Gun2 Left 4/Phase2Gun2Left3": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                -7.539,
+                11.432,
+                0
+              ]
+            },
+            {
+              "frame": 2.2,
+              "value": [
+                -7.539,
+                11.432,
+                0
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                -25.254,
+                3.165,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "GunMid/Phase 2 Gun 3 3": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                -371.235,
+                125.854,
+                0
+              ]
+            },
+            {
+              "frame": 2.6,
+              "value": [
+                -354.701,
+                125.854,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "GunMid/Phase 2 Gun 3 4": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                -384.388,
+                125.215,
+                0
+              ]
+            },
+            {
+              "frame": 2.6,
+              "value": [
+                -404.465,
+                125.215,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "GunMid/Phase 2 Gun 3 2": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                -380.169,
+                132.517,
+                0
+              ]
+            },
+            {
+              "frame": 2.6,
+              "value": [
+                -380.169,
+                102.992,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "Laser/Phase 3 turret Left 1": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                -27.405,
+                -28.789,
+                0
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                -49.631,
+                -28.789,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "Laser/Phase 3 turret Right 1": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                24.796,
+                -27.942,
+                0
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                45.588,
+                -27.942,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "Laser/Phase 3 Laser 1": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                0,
+                -33.181,
+                0
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                0,
+                -73.332,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "Phase 2 Base/phase 2 Gun1 Right 2": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                -166.365,
+                -76.908,
+                0
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                -166.365,
+                -150.575,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "Gunbottom2/Phase2 Gun2 Left 4": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                2.151,
+                2.175,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                2.151,
+                -29.712,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "Gunbottom2/Phase2 Gun2 Left 4/Phase2Gun2Left2": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                10.389,
+                11.433,
+                0
+              ]
+            },
+            {
+              "frame": 2.2,
+              "value": [
+                10.389,
+                11.433,
+                0
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                30.466,
+                11.433,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "Gunbottom2/Phase2 Gun2 Left 4/Phase2Gun2Left3": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                -8.72,
+                11.432,
+                0
+              ]
+            },
+            {
+              "frame": 2.2,
+              "value": [
+                -8.72,
+                11.432,
+                0
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                -26.435,
+                11.432,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "GunMid2/Phase 2 Gun 3 3": {
+        "props": {
+          "x": [
+            {
+              "frame": 1,
+              "value": -364.231
+            },
+            {
+              "frame": 2.6,
+              "value": -353.169
+            }
+          ]
+        }
+      },
+      "GunMid2/Phase 2 Gun 3 4": {
+        "props": {
+          "x": [
+            {
+              "frame": 1,
+              "value": -392.021
+            },
+            {
+              "frame": 2.6,
+              "value": -403.774
+            }
+          ]
+        }
+      },
+      "GunMid2/Phase 2 Gun 3 2": {
+        "props": {
+          "y": [
+            {
+              "frame": 1,
+              "value": 127.189
+            },
+            {
+              "frame": 2.6,
+              "value": 98.152
+            }
+          ]
+        }
+      },
+      "Phase 2 Base/phase 2 Gun1 Left 2": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                150.377,
+                -76.908,
+                0
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                155.128,
+                -158.494,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "Phase 1 Gun 4 Left 3": {
+        "props": {
+          "x": [
+            {
+              "frame": 1,
+              "value": 30.684
+            }
+          ]
+        }
+      },
+      "Phase 1 Gun 4 Left 3/Phase 1 Gun 4 Left 4": {
+        "props": {
+          "x": [
+            {
+              "frame": 1,
+              "value": -59.046
+            }
+          ]
+        }
+      },
+      "Phase 1 Gun 4 Left 3/Phase 2 Gun 3 2": {
+        "props": {
+          "y": [
+            {
+              "frame": 1,
+              "value": -8.046
+            },
+            {
+              "frame": 2,
+              "value": -36.54
+            }
+          ]
+        }
+      }
+    },
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 834.864,
+          "curve": "cubicOut"
+        },
+        {
+          "frame": 3,
+          "value": 540.797
+        }
+      ]
+    }
+  },
+  "events": []
+}
